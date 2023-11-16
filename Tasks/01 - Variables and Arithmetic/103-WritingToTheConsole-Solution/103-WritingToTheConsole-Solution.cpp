@@ -34,6 +34,7 @@ int main()
     // TASK(c) - using printf, display the radius and the area using a single printf statement
     // SOLUTION
     printf("Radius = %.3f, Area = %.3f", radius, area);
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
